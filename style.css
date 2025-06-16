@@ -7,7 +7,6 @@
     --cor-destaque: #d12877;
     --cor-texto: #ffffff;
 }
-  
 
 body {
     background-color: var(--cor-fundo);
